@@ -1,4 +1,4 @@
-//
+//adding test
 //  ContentView.swift
 //  spinGame
 //
@@ -12,6 +12,7 @@ struct ContentView: View {
         Text("Hello, world!")
             .padding()
     }
+
 }
 
 struct ContentView_Previews: PreviewProvider {
